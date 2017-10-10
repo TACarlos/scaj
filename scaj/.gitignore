@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+test
+db.postgresql_psycopg2
+.DS_Store
